@@ -31,7 +31,11 @@ Transforming Ideas into Intelligent AI Solutions 🚀
 🏆 Hackathon Participant & AI Innovator
 
 📍 Chennai, Tamil Nadu, India
+## 📊 GitHub Stats
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vikkicit&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vikkicit&layout=compact&theme=tokyonight)
 ---
 
 # 🔥 Featured Projects
