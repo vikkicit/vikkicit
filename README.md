@@ -1,7 +1,7 @@
 <h1 align="center">🚀 Vigneshwaran N L</h1>
 
 <h3 align="center">
-AI Engineer • Generative AI • RAG Systems • Full Stack AI Developer • Computer Vision
+AI Engineer • Generative AI • RAG Systems • Full Stack AI Developer
 </h3>
 
 <p align="center">
@@ -18,21 +18,15 @@ Building AI Products That Transform Ideas Into Real-World Impact
 </a>
 </p>
 
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&pause=1000&center=true&vCenter=true&width=1000&lines=AI+%26+Machine+Learning+Engineer;Generative+AI+Developer;RAG+Systems+Builder;Full+Stack+AI+Developer;Computer+Vision+Enthusiast;Hackathon+Innovator;Building+CareerMind-AI" />
-</p>
-
 ---
 
 # 🎯 About Me
 
-🎓 B.E Computer Science & Engineering (AI & ML)
+🎓 Computer Science & Engineering (AI & ML)
 
-🤖 Passionate about Artificial Intelligence, Machine Learning, Deep Learning & Generative AI
+🤖 Passionate about Artificial Intelligence, Machine Learning, Deep Learning and Generative AI
 
-🧠 Building Real-World AI Applications using LLMs, RAG and Computer Vision
-
-💡 Interested in AI Products, Automation and Career Intelligence Systems
+🧠 Building AI Products using LLMs, Retrieval-Augmented Generation (RAG) and Computer Vision
 
 🏆 Hackathon Participant & AI Innovator
 
@@ -48,21 +42,17 @@ Building AI Products That Transform Ideas Into Real-World Impact
 
 🔹 Full Stack AI Systems
 
-🔹 Computer Vision Applications
-
 🔹 Career Intelligence Platforms
 
 🔹 AI for Education
 
 ---
 
-# 🏆 Flagship Project
+# 🏆 Flagship Projects
 
 ## 🎯 CareerMind-AI
 
 AI-Powered Academic & Career Intelligence Platform
-
-### Features
 
 ✅ Resume Analyzer
 
@@ -70,139 +60,57 @@ AI-Powered Academic & Career Intelligence Platform
 
 ✅ Job Matching System
 
-✅ Skill Gap Analysis
-
 ✅ Career Roadmap Generator
-
-✅ Interview Preparation
 
 ✅ AI Skill Passport
 
 ✅ RAG Academic Assistant
 
-### Tech Stack
-
-Python • Ollama • LangChain • FAISS • Streamlit • NLP
+**Tech Stack:** Python • Ollama • LangChain • FAISS • Streamlit
 
 ---
 
-# 🔥 Featured Projects
+## 📚 Academic-RAG-Assistant
 
-### 🎯 CareerMind-AI
+Retrieval-Augmented Generation System for Intelligent Document Question Answering
 
-Academic & Career Intelligence Platform powered by AI and RAG.
+✅ Document Search & Retrieval
 
----
+✅ Semantic Similarity Search
 
-### 📚 Academic-RAG-Assistant
+✅ Local LLM Integration
 
-Intelligent Document Question Answering using LangChain, FAISS and Local LLMs.
+✅ Knowledge-Based Question Answering
 
----
-
-### 🎤 Smart-Interview-AI
-
-AI-Based Interview Preparation and Mock Assessment Platform.
+**Tech Stack:** Python • LangChain • FAISS • Ollama • NLP
 
 ---
 
-### 😊 Human Emotion Detection
+# ⚙️ Technical Skills
 
-Real-Time Emotion Recognition using CNN, MediaPipe and Machine Learning.
+### Programming Languages
 
----
+Python • C++ • SQL
 
-### 🩺 GI Disease Detection
+### Frontend
 
-Deep Learning Based Endoscopy Disease Classification System.
+HTML • CSS • JavaScript • Streamlit
 
----
+### Backend
 
-### 🎬 Edu Text-to-Video Generator
+Python • Flask • FastAPI • REST APIs
 
-Automatic Educational Video Generation from Text Content.
+### Artificial Intelligence & Machine Learning
 
----
+TensorFlow • PyTorch • Scikit-Learn • OpenCV • MediaPipe
 
-# ⚙️ Tech Stack
+### Generative AI & RAG
 
-## 💻 Programming Languages
+LangChain • FAISS • Ollama • LLMs • Prompt Engineering
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+### Tools
 
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge)
-
----
-
-## 🎨 Frontend Development
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-
----
-
-## ⚡ Backend Development
-
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask)
-
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi)
-
-![REST API](https://img.shields.io/badge/REST%20API-005571?style=for-the-badge)
-
----
-
-## 🤖 Artificial Intelligence & Machine Learning
-
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-
-![MediaPipe](https://img.shields.io/badge/MediaPipe-4285F4?style=for-the-badge)
-
----
-
-## 🧠 Generative AI & RAG
-
-![LangChain](https://img.shields.io/badge/LangChain-black?style=for-the-badge)
-
-![FAISS](https://img.shields.io/badge/FAISS-blue?style=for-the-badge)
-
-![Ollama](https://img.shields.io/badge/Ollama-black?style=for-the-badge)
-
-![RAG](https://img.shields.io/badge/RAG-green?style=for-the-badge)
-
-![LLMs](https://img.shields.io/badge/LLMs-purple?style=for-the-badge)
-
----
-
-## 🗄️ Databases
-
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite)
-
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
-
----
-
-## ☁️ Tools & Deployment
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-
-![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code)
-
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter)
+Git • GitHub • VS Code • Jupyter Notebook
 
 ---
 
@@ -218,9 +126,7 @@ My goal is to build impactful AI systems that solve real-world challenges in:
 
 🌍 Social Impact
 
-🤖 Intelligent Automation
-
-through Machine Learning, Generative AI and Full Stack AI Engineering.
+through Machine Learning, Generative AI and Intelligent Automation.
 
 ---
 
@@ -237,5 +143,5 @@ https://github.com/vikkicit
 ---
 
 <h3 align="center">
-⭐ Transforming Student Potential Into Career Success Through AI ⭐
+⭐ Building AI Solutions for Real-World Impact ⭐
 </h3>
