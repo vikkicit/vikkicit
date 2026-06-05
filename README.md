@@ -1,4 +1,7 @@
 <h1 align="center">🚀 Vigneshwaran N L</h1>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=vikkicit&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views"/>
+</p>
 
 <h3 align="center">
 AI Engineer • Generative AI • RAG Systems • Full Stack AI Developer • Computer Vision
